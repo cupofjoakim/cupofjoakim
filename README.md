@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Joakim
 
-<!--
-**cupofjoakim/cupofjoakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![type](https://img.shields.io/badge/type-fullstack-5B9ED9?style=for-the-badge)
+![living](https://img.shields.io/badge/living-stockholm-F2A057?style=for-the-badge)
+![current employer](https://img.shields.io/badge/current_employer-sbab-5B9ED9?style=for-the-badge)
 
-Here are some ideas to get you started:
+I'm a fullstack developer who likes learning new things. You'll be sure to find me looking at new stuff all the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently messing around with:
+- Godot
+- Nest.js
+- Go
+- Svelte
+
+### Hobbies
+- Food
+- Beer brewing
+- Music
