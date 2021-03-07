@@ -6,11 +6,10 @@
 
 I'm a fullstack developer who likes learning new things. You'll be sure to find me looking at new stuff all the time.
 
-### Currently messing around with:
-- Godot
+### Currently fascinated by:
 - Nest.js
-- Go
 - Svelte
+- Elixir
 
 ### Hobbies
 - Food
