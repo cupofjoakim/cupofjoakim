@@ -9,9 +9,9 @@ I'm a fullstack developer who likes learning new things. You'll be sure to find 
 Ex Spotify (I know it matters to some of you)
 
 ### Currently fascinated by:
-- The Remix vs Next.js debate
 - Tomato soups & grilled cheeses
-- The versitility of github actions
+- Rust 🙉
+- How hard it is to migrate from styled-components into tailwind, and how hard it will be to move from tailwind to something else...
 
 ### Hobbies
 - Food
